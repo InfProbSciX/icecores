@@ -1,0 +1,8 @@
+*.DS_store
+*.txt
+*.data
+*.pyc
+*.hpp
+hmm.stan
+data.json
+hmm
